@@ -1,4 +1,5 @@
 <div align="center">
+  <span class="fs-8">[My Portfolio](https://rchien.me/){: .btn }</span>
   <p>👋 Hi, I'm Richard. Now based in the Greater Los Angeles Area</p>
   <p>🤔 Actively seeking full-time Software Engineer / Graphic Programmer position in the US</p>
   <p>✔ Experienced Software Engineer with a demonstrated works in the program development and entertainment industry.</p>
@@ -7,12 +8,12 @@
 </div>
 
 <div align="center">
-  <h2>Tech Stack</h2>
+  <h2>My Tech Stack</h2>
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?&style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" />
   <img src="https://img.shields.io/badge/-Python-1E415D?style=flat-square&logo=python" />
@@ -30,6 +31,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-OpenGL-red" />
+  <img src=" https://img.shields.io/badge/-OpenCV-lightgrey" />
 </div>
+
 <!--
 **chien1219/chien1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
