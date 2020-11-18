@@ -1,5 +1,3 @@
-[My Portfolio](https://rchien.me/){: .btn .btn-purple .ml-2 }
-  
 <div align="center">
   <p>👋 Hi, I'm Richard. Now based in the Greater Los Angeles Area</p>
   <p>🤔 Actively seeking full-time Software Engineer / Graphic Programmer position in the US</p>
