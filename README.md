@@ -1,6 +1,5 @@
 <div align="center">
   <h3>👋 Hi, I'm Richard Chien, now based in the Greater Los Angeles Area</h3>
-  <h4>🤔 Actively seeking full-time Software Engineer / Graphic Programmer position in the US</h4>
   <p>✔ Experienced Software Engineer with a demonstrated works in the program development and entertainment industry.</p>
   <p>✔ Fast learner and team player, and able to work independently</p>
   <p>✔ Embrace new technologies and love to code</p>
